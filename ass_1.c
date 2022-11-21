@@ -347,7 +347,7 @@ void record_the_entry(){
     printf("Data is successful is loaded \n"); 
 }
 
-
+//.
 
 
 //10.main function
